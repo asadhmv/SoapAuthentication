@@ -14,3 +14,7 @@
     </soapenv:Body>  
 </soapenv:Envelope>
 */
+
+Microsoft.AspNetCore.Authentication.JwtBearer
+Swashbuckle.AspNetCore
+System.IdentityModel.Tokens.Jwt
